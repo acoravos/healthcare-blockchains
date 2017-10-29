@@ -1,5 +1,5 @@
 # Healthcare-related Blockchains
-We're putting together an open-source landscape map for healthcare-related blockchains. Repo was inspired by a conversation with Paul from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](hashedhealth.com): *Who is working on interesting blockchain-related technologies for our industry?*
+We're putting together an open-source landscape map for healthcare-related blockchains. Repository was inspired by a conversation with Paul from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](hashedhealth.com). We wanted to answer the following question: *Who is working on interesting blockchain-related technologies for our industry?*
 
 There's a lot of opportunity to use blockchain technologies in a healthcare context effectively -- [and a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1).
 
