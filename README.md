@@ -1,5 +1,6 @@
 # Healthcare-related Blockchains
-We're putting together an open-source landscape map for healthcare-related blockchains. This repository was inspired by a conversation with [Paul](https://github.com/pfletcherhill) from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](https://hashedhealth.com). We wanted to answer the following question: *Who is working on blockchain-related technologies for our industry?*
+![healthcare blockchain](healthcare-blockchain.png)
+We're putting together an open-source landscape map for healthcare-related blockchains. This repository was inspired by a conversation with [Paul](https://github.com/pfletcherhill) from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](https://hashedhealth.com). We wanted to answer the  question: *Who is working on blockchain-related technologies for our industry?*
 
 There's a lot of opportunity to use blockchain technologies in a healthcare context effectively -- [and a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1). We put goether a first cut of this map, and wanted to open it up to the community to share updates. Who are we missing?
 
@@ -13,13 +14,14 @@ We've also drafted a [Google Doc](https://docs.google.com/a/hashedhealth.com/spr
 
 ## Healthcare Projects using Blockchain Technologies
 *Projects listed in alphabetical order*
+
 To update the README, make a pull-request.
 
 |  Project  | Background (400 characters or less) |
 |:---|:---|
 |[Accenture](https://www.accenture.com/us-en/insight-perspectives-health-healthcare-innovation) | Accenture is a global professional services company that includes strategy, consulting, digital technology and operations services. Accenture partnered with Microsoft and Avanade to develop an identity prototype based on blockchain technology that could provide a digital identity for 1.1 billion people who don't have a formal ID. |
 |[Astri](https://www.astri.org/) | The Chinese government formed Astri, formally known as the Hong Kong Applied Science and Technology Research Institute. Astri developed a health technology platform that aims to drive disruption in the traditional healthcare field with preventative health monitoring, medical computing and diagnostics.|
-|[BitMark](https://bitmark.com/) | UC Berkeley and Bitmark partner to bring data donation to public health studies. Bitmark technology allows users to take ownership of their digital lives and help advance the frontiers of public health. More details: https://blog.bitmark.com/uc-berkeley-and-bitmark-partner-to-bring-data-donation-to-public-health-studies-3e9a17891432|
+|[BitMark](https://bitmark.com/) | UC Berkeley and Bitmark partner to bring data donation to public health studies. Bitmark technology allows users to take ownership of their digital lives and help advance the frontiers of public health. [More details on the UC & Bitmark partnership.](https://blog.bitmark.com/uc-berkeley-and-bitmark-partner-to-bring-data-donation-to-public-health-studies-3e9a17891432)|
 |[Blockchain Health](https://blockchainhealth.co/) | Blockchain Health is a software company that provides healthcare organizations with HIPAA-compliant blockchain solutions. Users can share health data with researchers using the integrated platform, which creates a tamperproof chain of information custody.|
 |[Blockpharma](https://www.blockpharma.com/) | Blockpharma is a French start-up focused on solutions to trace drug sales online. Blockpharma developed an application programming interface that can plug into pharmaceutical companies' information systems, so when the companies release product information and QR codes, the blockchain records subsequent transactions.|
 |[Bloq](http://bloq.com/) | Bloq produces enterprise grade blockchain technologies to organizations across industries. The company's bloqEnterprise software solution allows users to create, test, update and customize permissioned blockchains; bloqThink provides the strategic architecting, design, development and education for bloqEnterprise; and bloqLabs provides space for blockchain research and testing.|
