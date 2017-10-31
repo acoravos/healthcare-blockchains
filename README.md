@@ -2,20 +2,22 @@
 ![healthcare blockchain](healthcare-blockchain.png)
 We're putting together an open-source landscape map for healthcare-related blockchains. This repository was inspired by a conversation with [Paul](https://github.com/pfletcherhill) from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](https://hashedhealth.com). We wanted to answer the  question: *Who is working on blockchain-related technologies for our industry?*
 
-There's a lot of opportunity to use blockchain technologies in a healthcare context effectively -- [and a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1). We put goether a first cut of this map, and wanted to open it up to the community to share updates. What projects are we missing?
-
 ## Overview & Methodology
-[Put image here for first draft map.]
-Image last updated: [date]
+There's a lot of opportunity to use blockchain technologies healthcare effectively -- [and there a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1). 
 
-We'll occasionally update the landscape map image with new ventures. 
+We put goether a first cut of this map, and wanted to open it up to the community to share updates. Most of the companies on this list are early stage -- and a number are vaporware. Over time, we hope to see more project in production, but few are ready yet. 
 
-We've also drafted a [Google Doc](https://docs.google.com/a/hashedhealth.com/spreadsheets/d/1CLYS4FzbUB4ZwcbI73uBPbNlDvRsUb_sHV1vDzcoie0/edit?usp=sharing) with more detailed information. 
+![landscape-map](hc-blockchain-landscape-map.png)
+*Image last updated: October 31, 2017*
+
+Have a better way of organizing the landcape? Did we miss a company? Submit a pull request. You can fork the [landscape map slide (Google Slides)](https://docs.google.com/presentation/d/1yJ9d4w0HpSJ8Wccc3hQQGNmZmqCSwExiFOFWXPVaPvY/edit?usp=sharing).
+
+Want to go in more depth? We've drafted a [Google Doc](https://docs.google.com/a/hashedhealth.com/spreadsheets/d/1CLYS4FzbUB4ZwcbI73uBPbNlDvRsUb_sHV1vDzcoie0/edit?usp=sharing) with more detailed information. 
 
 ## Healthcare Projects using Blockchain Technologies
 *Projects listed in alphabetical order*
 
-To update the README, make a pull-request.
+To update this list, submit a pull request.
 
 |  Project  | Background (400 characters or less) |
 |:---|:---|
