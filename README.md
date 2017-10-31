@@ -3,7 +3,7 @@
 We're putting together an open-source landscape map for healthcare-related blockchains. This repository was inspired by a conversation with [Paul](https://github.com/pfletcherhill) from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](https://hashedhealth.com). We wanted to answer the  question: *Who is working on blockchain-related technologies for our industry?*
 
 ## Overview & Methodology
-There's a lot of opportunity to use blockchain technologies healthcare effectively -- [and there a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1). 
+There's a lot of opportunity to use blockchain technologies healthcare effectively -- [and there are a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1). 
 
 We put goether a first cut of this map, and wanted to open it up to the community to share updates. Most of the companies on this list are early stage -- and a number are vaporware. Over time, we hope to see more project in production, but few are ready yet. 
 
