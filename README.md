@@ -1,18 +1,19 @@
 # Healthcare-related Blockchains
-We're putting together an open-source landscape map for healthcare-related blockchains. Repository was inspired by a conversation with [Paul](https://github.com/pfletcherhill) from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](https://hashedhealth.com). We wanted to answer the following question: *Who is working on interesting blockchain-related technologies for our industry?*
+We're putting together an open-source landscape map for healthcare-related blockchains. This repository was inspired by a conversation with [Paul](https://github.com/pfletcherhill) from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](https://hashedhealth.com). We wanted to answer the following question: *Who is working on blockchain-related technologies for our industry?*
 
-There's a lot of opportunity to use blockchain technologies in a healthcare context effectively -- [and a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1).
-
-We put goether a first cut of this map, and wanted to open it up to the community to share updates.
+There's a lot of opportunity to use blockchain technologies in a healthcare context effectively -- [and a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1). We put goether a first cut of this map, and wanted to open it up to the community to share updates. Who are we missing?
 
 ## Overview & Methodology
 [Put image here for first draft map.]
 Image last updated: [date]
 
-We'll occasionally update the landscape map image with new ventures. Make a pull-request to add to the Google doc.
+We'll occasionally update the landscape map image with new ventures. 
+
+We've also drafted a [Google Doc](https://docs.google.com/a/hashedhealth.com/spreadsheets/d/1CLYS4FzbUB4ZwcbI73uBPbNlDvRsUb_sHV1vDzcoie0/edit?usp=sharing) with more detailed information. 
 
 ## Healthcare Projects using Blockchain Technologies
 *Projects listed in alphabetical order*
+To update the README, make a pull-request.
 
 |  Project  | Background (400 characters or less) |
 |:---|:---|
@@ -41,6 +42,7 @@ We'll occasionally update the landscape map image with new ventures. Make a pull
 |[Medicalchain](https://medicalchain.com/en/) | Medicalchain uses blockchain technology to store health records securely so physicians, hospitals, laboratories, pharmacists and health insurers can request a patient's permission to access the record as well as record transactions on the distributed ledger. Medicalchain is set to launch in September 2017.|
 |[MedRec](https://www.media.mit.edu/research/groups/1454/medrec) | Graduate student researchers at Massachusetts Institute of Technology in Boston developed MedRec, a system for managing medical records using the Ethereum, a decentralized platform for applications. MedRec is designed for patients to control their medical data, including clinical EHR records and data from personal health wearables like Fitbit. Patients can securely allow healthcare providers, researchers and family members to access their data. Medical researchers can also mine the data to sustain the blockchain authentication log and receive anonymous medical metadata in return.|
 |[Microsoft](https://azure.microsoft.com/en-us/solutions/blockchain/) | In June, Microsoft partnered with Accenture to build a blockchain prototype for healthcare as well as other industries. The blockchain will create a digital identity for 1.1 billion people around the world who don't have a formal identity, including refugees. The current model builds on Accenture's blockchain and operates on Microsoft Azure's cloud platform.|
+|[MintHealth](https://www.minthealth.io/) | MintHealth announced the launch of its self-sovereign health record platform at the Connected Health Conference in Bostonin October 2017. Powered by blockchain technology, the service allows patients to access their health records in real-time through a mobile or web app, and features a specialized digital currency as an incentive for preferred patient behaviors.|
 |[Netki](https://netki.com/) | Netki aims to support blockchain use with the Open Source, Open Standards tools for digital identity. The company removes risk and compliance barriers to blockchain projects. In May 2017, Netki launched a digital identity service to make blockchain safe for business, finance and healthcare applications. The Digital ID works across public and private blockchains to reduce risk associated with blockchain transactions.|
 |[NeuroMesh](http://www.neuromesh.co/) | A vaccine for your IoT. Neuromesh uses bitpoint to protect expensive equiptment like X-Rays and MRI machines from attacks.|
 |[OPAL/Enigma](https://www.trust.mit.edu/projects) | Published a paper on Blockchain and Health IT: Algorithms, Privacy and Data. Read here: https://www.healthit.gov/sites/default/files/1-78-blockchainandhealthitalgorithmsprivacydata_whitepaper.pdf|
