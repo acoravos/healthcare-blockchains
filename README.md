@@ -58,4 +58,4 @@ To update this list, submit a pull request.
 |[YouBase](https://www.youbase.io/) | YouBase combines blockchain compatible technologies to deliver a secure and flexible container for independent data. The company's solution allows individuals to maintain their data and identity across networks and share data as they chose. Youbase.io is designed to decentralize sensitive consumer and personal information while compiling a single source of anonymous data.|info@youbase.io|
 
 ## Request for moderators
-Want to help support this repo and manage pull requests? We're looking for people who can lead the charge to maintain this repo. DM me at [@andreacoravos](www.twitter.com/andreacoravos) to become one of our moderators.
+Want to help support this repo and manage pull requests? We're looking for people who can lead the charge to maintain this repo. DM me at [@andreacoravos](https://www.twitter.com/andreacoravos) to become one of our moderators.
