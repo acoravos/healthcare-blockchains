@@ -5,12 +5,12 @@ We've drafted an open-source landscape map for healthcare-related blockchains. T
 ## Overview & Methodology
 There's a lot of opportunity to use blockchain technologies healthcare effectively -- [and there are a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1). 
 
-We put together a first cut of this map and wanted to open it up to the community to share updates. Most of the companies on this list are early stage—and some are vaporware. Over time, we hope to see more projects in production, but few are ready yet. 
+We put together a first cut of this map and wanted to open it up to the community to share updates. Many of the companies on this list are early stage (e.g., vaporware). Over time, we hope to see more projects in production, but few are ready yet. 
 
 ![landscape-map](hc-landscape-map.png)
 *Image last updated: October 31, 2017*
 
-Have a better way of organizing the landcape? Did we miss a company? Submit a pull request. You can fork the [landscape map slide (Google Slides)](https://docs.google.com/presentation/d/1yJ9d4w0HpSJ8Wccc3hQQGNmZmqCSwExiFOFWXPVaPvY/edit?usp=sharing).
+Have a better way of organizing the landscape? Did we miss a company? Submit a pull request. You can fork the [landscape map slide (Google Slides)](https://docs.google.com/presentation/d/1yJ9d4w0HpSJ8Wccc3hQQGNmZmqCSwExiFOFWXPVaPvY/edit?usp=sharing).
 
 Want to go in more depth? We've drafted a [Google Doc](https://docs.google.com/a/hashedhealth.com/spreadsheets/d/1CLYS4FzbUB4ZwcbI73uBPbNlDvRsUb_sHV1vDzcoie0/edit?usp=sharing) with more detailed information. 
 
@@ -48,7 +48,7 @@ To update this list, submit a pull request.
 |[Microsoft](https://azure.microsoft.com/en-us/solutions/blockchain/) | In June, Microsoft partnered with Accenture to build a blockchain prototype for healthcare as well as other industries. The blockchain will create a digital identity for 1.1 billion people around the world who don't have a formal identity, including refugees. The current model builds on Accenture's blockchain and operates on Microsoft Azure's cloud platform.||
 |[MintHealth](https://www.minthealth.io/) | MintHealth announced the launch of its self-sovereign health record platform at the Connected Health Conference in Boston in October 2017. Powered by blockchain technology, the service allows patients to access their health records in real-time through a mobile or web app, and features a specialized digital currency as an incentive for preferred patient behaviors.|info@minthealth.io|
 |[Netki](https://netki.com/) | Netki aims to support blockchain use with the Open Source, Open Standards tools for digital identity. The company removes risk and compliance barriers to blockchain projects. In May 2017, Netki launched a digital identity service to make blockchain safe for business, finance and healthcare applications. The Digital ID works across public and private blockchains to reduce risk associated with blockchain transactions.||
-|[NeuroMesh](http://www.neuromesh.co/) | A vaccine for your IoT. Neuromesh uses bitpoint to protect expensive equiptment like X-Rays and MRI machines from attacks.||
+|[NeuroMesh](http://www.neuromesh.co/) | A vaccine for your IoT. Neuromesh uses the Bitcoin blockchain to protect expensive equipment like X-Rays and MRI machines from attacks.||
 |[OPAL/Enigma](https://www.trust.mit.edu/projects) | Published a paper on Blockchain and Health IT: Algorithms, Privacy and Data. Read here: https://www.healthit.gov/sites/default/files/1-78-blockchainandhealthitalgorithmsprivacydata_whitepaper.pdf| |
 |[Patientory](https://patientory.com/) | Patientory was founded in 2016 through the Boomtown Health-Tech Accelerator in Boulder, Colo. Patientory collaborates with Denver-based Colorado Permanente Medical Group, a member of Oakland, Calif.-based Kaiser Permanente. Patientory allows users to create profiles on a mobile app to securely store, manage and share medical information. The solution is compatible with Epic, Cerner, Allscripts and Meditech, among other EHR systems.|info@patientory.com|
 |[PointNurse](https://www.pointnurse.com/) | Founded in 2014, PointNurse is a virtual and on-demand care platform that allows nurses to lead consumer-focused care outside of the hospital and clinic setting. The platform is a blockchain-based digital community enabling licensed professionals to engage in secure and private conversations with patients in remote locations.|team@pointnurse.com|
