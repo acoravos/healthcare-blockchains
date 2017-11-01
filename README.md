@@ -5,7 +5,7 @@ We've drafted an open-source landscape map for healthcare-related blockchains. T
 ## Overview & Methodology
 There's a lot of opportunity to use blockchain technologies healthcare effectively -- [and there are a lot of myths, too](https://blog.andreacoravos.com/myth-busting-can-a-blockchain-save-healthcare-d398cdebf0c1). 
 
-We put goether a first cut of this map, and wanted to open it up to the community to share updates. Most of the companies on this list are early stage... and a number are vaporware. Over time, we hope to see more projects in production, but few are ready yet. 
+We put together a first cut of this map and wanted to open it up to the community to share updates. Most of the companies on this list are early stage—and some are vaporware. Over time, we hope to see more projects in production, but few are ready yet. 
 
 ![landscape-map](hc-landscape-map.png)
 *Image last updated: October 31, 2017*
