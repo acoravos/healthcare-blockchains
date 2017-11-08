@@ -12,8 +12,6 @@ We put together a first cut of this map and wanted to open it up to the communit
 
 Have a better way of organizing the landscape? Did we miss a company? Submit a pull request. You can fork the [landscape map slide (Google Slides)](https://docs.google.com/presentation/d/1yJ9d4w0HpSJ8Wccc3hQQGNmZmqCSwExiFOFWXPVaPvY/edit?usp=sharing).
 
-Want to go in more depth? We've drafted a [Google Doc](https://docs.google.com/a/hashedhealth.com/spreadsheets/d/1CLYS4FzbUB4ZwcbI73uBPbNlDvRsUb_sHV1vDzcoie0/edit?usp=sharing) with more detailed information.
-
 ## Healthcare Projects using Blockchain Technologies
 *Projects listed in alphabetical order*
 
