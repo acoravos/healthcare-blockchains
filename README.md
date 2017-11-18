@@ -10,7 +10,7 @@ We put together a first cut of this map and wanted to open it up to the communit
 ![landscape-map](hc-landscape-map-v5.png)
 *Image last updated: November 12, 2017*
 
-Have a better way of organizing the landscape? Did we miss a company? Submit a pull request. You can fork the [landscape map slide (Google Slides)](https://docs.google.com/presentation/d/1yJ9d4w0HpSJ8Wccc3hQQGNmZmqCSwExiFOFWXPVaPvY/edit?usp=sharing).
+Have a better way of organizing the landscape? Did we miss a company? Submit a pull request. You can fork the [landscape map slide (Google Slides)](https://docs.google.com/presentation/d/1yJ9d4w0HpSJ8Wccc3hQQGNmZmqCSwExiFOFWXPVaPvY/edit?usp=sharing). *If you add your company to the map, please add your logo to the [Logos folder](https://github.com/acoravos/healthcare-blockchains/tree/master/logos) when making a pull request or else we will be unable to accept your request.*
 
 ## Healthcare Projects using Blockchain Technologies
 *Projects listed in alphabetical order*
