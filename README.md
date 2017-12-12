@@ -64,5 +64,8 @@ To update this list, submit a pull request.
 |[Tierion](https://tierion.com/) | Tierion's HashAPI allows developers to anchor up to 100 records per second on the blockchain for free, with time stamping and data security. Tierion was the first company to join Philips' Blockchain Lab to explore using blockchain in healthcare. The company has also partnered with Microsoft to build a service linking data to blockchain to prove the data's integrity and existence.||
 |[YouBase](https://www.youbase.io/) | YouBase combines blockchain compatible technologies to deliver a secure and flexible container for independent data. The company's solution allows individuals to maintain their data and identity across networks and share data as they chose. Youbase.io is designed to decentralize sensitive consumer and personal information while compiling a single source of anonymous data.|info@youbase.io|
 
+## Where are the Healthcare ICOs?
+Thankfully [vincek39](https://github.com/vincek39) has come to our rescue and he's created a [Google Doc](https://docs.google.com/spreadsheets/d/1TANOZmuYtVhyn1C9PV6YLsOBlQNOEOBExB7u2_Kkork/edit#gid=0) of the ICOs and token sales in the healthcare industry, all 38 of them (as of 12/1/18). 
+
 ## Request for moderators
 Want to help support this repo and manage pull requests? We're looking for people who can lead the charge to maintain this repo. DM me at [@andreacoravos](https://www.twitter.com/andreacoravos) to become one of our moderators.
