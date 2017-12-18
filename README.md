@@ -7,8 +7,7 @@ There's a lot of opportunity to use blockchain technologies in healthcare -- [an
 
 We put together a first cut of this map and wanted to open it up to the community to share updates. Many of the companies on this list are early stage (e.g., vaporware). Over time, we hope to see more projects in production, but few are ready yet.
 
-![landscape-map](hc-landscape-map-v6.png)
-*Image last updated: November 22, 2017*
+![landscape-map](hc-landscape-map-v7.png)
 
 Have a better way of organizing the landscape? Did we miss a company? Submit a pull request. You can fork the [landscape map slide (Google Slides)](https://docs.google.com/presentation/d/1yJ9d4w0HpSJ8Wccc3hQQGNmZmqCSwExiFOFWXPVaPvY/edit?usp=sharing). *To add your company to the map, please add your logo to the [Logos folder](https://github.com/acoravos/healthcare-blockchains/tree/master/logos) when making a pull request or else we will be unable to accept your request.*
 
@@ -33,6 +32,7 @@ To update this list, submit a pull request.
 |[Chemonics](http://www.chemonics.com/Pages/Home.aspx) | Chemonics is an international development consulting firm spanning 70 countries and industries. In October 2016, Chemonics and BanQu partnered to establish the Blockchain for Development Solutions Lab to build, test and scale blockchain solutions that aim to reduce poverty and increase the effectiveness of social programs.||
 |[Chronicled](https://www.chronicled.com/) | Chronicled launches pharma initiative.  Blockchain startup Chronicled and LinkLab have launched The MediLedger Project, a joint venture aimed at exploring blockchain solutions for the pharma industry. Genentech, a member of the Roche group, Pfizer, AmerisourceBergen, and McKesson have already signed on.|support@chronicled.com|
 |[Curisium](https://www.curisium.com/)|The Curisium platform deploys blockchain and secure computation technologies to allow payers, providers and life science companies to engage in patient-centric value-based contracts.|info@curisium.com|
+|[DeepMind Health](https://deepmind.com/blog/trust-confidence-verifiable-data-audit/)| Google's DeepMind Health is working on a blockchain-like ["Verifiable Data Audit"](https://deepmind.com/blog/trust-confidence-verifiable-data-audit/) to ensure auditability, the ability to show and justify if logs are challenged. DeepMind sees Verifiable Data Audit as a powerful complement to this scrutiny, giving partner hospitals an additional real-time and fully proven mechanism to check how DeepMind is processing data.||
 |[Doc.AI](https://doc.ai/) | Doc.AI's Robo-Genomics platform is a deep conversational agent designed to improve genetic data comprehension and provide decision support. The agent can converse on disease, traits, pharmacogenomics and family planning. Doc.Ai's founder Walter De Brouwer was one of three parties that executed the first life insurance contract on the public blockchain with bitcoin in January 2017.|info@doc.ai|
 |[EncrypGen](https://www.encrypgen.com/)|Encrypgen provides next generation software for genomic data empowering patients and donors, facilitating health, business, and science in a safe environment.|drkoepsell@encrypgen.com|
 |[Factom](https://www.factom.com/) | Factom is a blockchain-as-a-service technology company that received $8 million in Series A funding in April 2017. In November 2016, the Bill and Melinda Gates Foundation awarded Factom a grant to develop an infrastructure for medical records on the company's blockchain.||
