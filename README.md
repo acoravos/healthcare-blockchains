@@ -79,6 +79,3 @@ To update this list, submit a pull request.
 
 ## Where are the Healthcare ICOs?
 Thankfully [vincek39](https://github.com/vincek39) has come to our rescue and he's created a [Google Doc](https://docs.google.com/spreadsheets/d/1TANOZmuYtVhyn1C9PV6YLsOBlQNOEOBExB7u2_Kkork/edit#gid=0) of the ICOs and token sales in the healthcare industry, all 38 of them (as of 12/1/18).
-
-## Request for moderators
-Want to help support this repo and manage pull requests? We're looking for people who can lead the charge to maintain this repo. DM me at [@andreacoravos](https://www.twitter.com/andreacoravos) to become one of our moderators.
