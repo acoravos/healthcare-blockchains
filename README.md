@@ -1,10 +1,8 @@
-# Where are the healthcare-related blockchains?
-
-_UPDATE: As of July 25, 2018, we have combined efforts with the Mt Sinai [Center for Biomedical Blockchain Research](http://biomedicalblockchain.org/) to launch an interactive landscape map and open-source registry of biomedical blockchains. [Check out the map](https://db.biomedicalblockchain.org/), and submit new project [here](https://db.biomedicalblockchain.org/submit)!_
+_UPDATE: As of July 25, 2018, we have combined efforts with the Mt Sinai [Center for Biomedical Blockchain Research](http://biomedicalblockchain.org/) to launch an interactive landscape map and open-source registry of biomedical blockchains. [Check out the map](https://db.biomedicalblockchain.org/), and submit a new project [here](https://db.biomedicalblockchain.org/submit)._
 
 _Learn more about why we took on this project in our [STAT News July 2018 Op-Ed](https://www.statnews.com/2018/07/25/blockchains-biomedicine-health-care-buyer-be-informed/)._
 
-
+# Where are the healthcare-related blockchains?
 ![healthcare blockchain](healthcare-blockchain.png)
 We've drafted an open-source landscape map for healthcare-related blockchains. This repository was inspired by conversations with [Paul](https://github.com/pfletcherhill) from [PatientBank](https://www.patientbank.us) and Chris from [Hashed Health](https://hashedhealth.com). We wanted to answer the question: *Who is working on blockchain-related technologies for our industry?*
 
